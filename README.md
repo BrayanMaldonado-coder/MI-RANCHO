@@ -97,7 +97,7 @@ Aquí tienes una lista de los **objetivos clave** que el proyecto **"Mi Rancho"*
   - BrayanMaldonado-coder
 
 ## **💻 Tecnologías Utilizadas**
-- **Frontend y Backend**: **Flutter** (permite crear aplicaciones móviles y web multiplataforma con un solo código base)
+- **Frontend y Backend**: **Flutter** 
 - **Lenguaje de programación**: Dart
 - **Identificación**: Integración con hardware RFID para identificación de los animales.
 - **Base de datos**: Firebase 
