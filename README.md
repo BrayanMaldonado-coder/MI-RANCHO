@@ -2,16 +2,6 @@
 
 **MI RANCHO** es una plataforma digital diseñada para optimizar la gestión en ranchos, granjas y otras instalaciones que manejan animales. Su objetivo principal es **digitalizar y automatizar el control de cualquier tipo de animal**, permitiendo a los usuarios registrar y monitorear fácilmente la información mediante identificación por chip RFID. Esta solución reemplaza los métodos tradicionales en papel, mejorando la eficiencia y precisión en la administración de datos, además de facilitar el acceso a información clave en tiempo real.
 
-## **📚 Tabla de Contenidos**
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Motivación](#motivación)
-3. [Objetivos](#objetivos)
-4. [Funcionalidades Principales](#funcionalidades-principales)
-5. [Roles de Scrum](#roles-de-scrum)
-6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-7. [Estado del Proyecto](#estado-del-proyecto)
-8. [Contacto](#contacto)
-
 ## **🔍 Descripción del Proyecto**
 
 **MI RANCHO** es una solución digital integral diseñada para facilitar la gestión y seguimiento de animales en diversas instalaciones, como ranchos, granjas, zoológicos y refugios. El software permite a los usuarios **registrar, monitorizar y gestionar información clave** sobre los animales de manera eficiente y segura.
