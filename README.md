@@ -1,3 +1,4 @@
+![logo](logo.jpg)
 # **🐄 MI RANCHO**
 
 **MI RANCHO** es una plataforma digital diseñada para optimizar la gestión en ranchos, granjas y otras instalaciones que manejan animales. Su objetivo principal es **digitalizar y automatizar el control de cualquier tipo de animal**, permitiendo a los usuarios registrar y monitorear fácilmente la información mediante identificación por chip RFID. Esta solución reemplaza los métodos tradicionales en papel, mejorando la eficiencia y precisión en la administración de datos, además de facilitar el acceso a información clave en tiempo real.
@@ -45,7 +46,7 @@ El proyecto **"Mi Rancho"** se creó en respuesta a los desafíos significativos
 
 - **🤝 Facilitación del trabajo en equipo**: Al permitir que varios usuarios accedan y colaboren en la gestión de datos, **"Mi Rancho"** fomenta una mejor comunicación y cooperación entre los miembros del equipo, mejorando la dinámica de trabajo.
 
-## **🎯 Objetivos**
+##**🎯 Objetivos**
 Aquí tienes una lista de los **objetivos clave** que el proyecto **"Mi Rancho"** busca alcanzar:
 
 ### **Objetivos de "Mi Rancho"**
@@ -70,10 +71,6 @@ Aquí tienes una lista de los **objetivos clave** que el proyecto **"Mi Rancho"*
 - **📡 Identificación por chip**: Soporte para identificar cada animal mediante tecnología RFID.
 - **🩺 Historial de salud y alimentación**: Almacena y organiza los datos relacionados con la salud y dieta de cada animal.
 - **📊 Informes personalizados**: Generación de informes sobre la producción, estado de los animales, etc.
-
-Aquí tienes la redacción de los requerimientos funcionales y no funcionales, incluyendo explicaciones y emojis para hacerlo más atractivo y comprensible:
-
----
 
 ## **🔍 Requerimientos Funcionales**
 
@@ -138,7 +135,7 @@ Aquí tienes la redacción de los requerimientos funcionales y no funcionales, i
 Aquí tienes la ampliación del documento con un apartado de artefactos y otro de priorización, manteniendo el uso de emojis para hacerlo más atractivo:
 
 
-##**🛠️ Artefactos**
+## **🛠️ Artefactos**
 
 1. **📄 Documentación de Requerimientos**  
    Un documento que reúne todos los requerimientos funcionales y no funcionales, sirviendo como guía para el desarrollo y validación de la aplicación.
