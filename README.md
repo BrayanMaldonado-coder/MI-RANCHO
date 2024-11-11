@@ -96,6 +96,9 @@ El proyecto **"Mi Rancho"** se creó en respuesta a los desafíos significativos
    La aplicación deberá integrar la tecnología de identificación por radiofrecuencia (RFID), permitiendo a los usuarios rastrear e identificar animales mediante dispositivos de lectura RFID.
    - **Rastreo de Animales**: Los usuarios podrán escanear las etiquetas RFID que lleven los animales para obtener información inmediata sobre su estado de salud, ubicación y otros datos relevantes.
    - **Actualización Automática**: Al leer la etiqueta RFID de un animal, se actualizará automáticamente la información de dicho ejemplar en la base de datos de la aplicación.
+  
+5. **📱 Modo oscuro y de alto contraste**-
+   la aplicación contara con dos modos, el oscuro noormal y el de alto contraste para trabajo bajo el sol.
 
 ## **🔒 Requerimientos No Funcionales**
 
