@@ -2,19 +2,22 @@
 
 # 📋 Reporte de Cambios: Tercera Entrega
 
-## 1️⃣ Cambios Realizados
-
 - **Nueva Bitácora**  
   Se añadió una bitácora de actividades actualizada que refleja el progreso del proyecto durante el sprint actual. Incluye detalles sobre:  
   - Ajustes en el diseño de la interfaz de usuario.  
   - Implementación de pruebas para la funcionalidad de gestión por RFID.  
   - Correcciones de errores detectados en la segunda entrega.  
 
+- **Correcciones de Errores Identificados en pruebas**  
+  - Algunos botones dirigían a direcciones incorrectas. **Corregido**.  
+  - El apartado para editar información no funcionaba. Se creó un apartado nuevo para esta funcionalidad. **Corregido**.  
+  - El buscador presentaba problemas de funcionamiento. **Corregido**.  
+
 - **Diapositiva de Tercera Entrega**  
   Se integró una nueva diapositiva para la presentación semanal que destaca:  
   - Los avances en la funcionalidad del historial de salud de los animales.  
   - La mejora en el diseño visual para una mejor experiencia de usuario.  
-  - Comparativas con los objetivos previos y alcance logrado.  
+  - Comparativas con los objetivos previos y alcance logrado.   
 
 ## 2️⃣ Entrega Final del Producto
 
