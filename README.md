@@ -1,6 +1,27 @@
 ![logo](logo%20nuevo.jpeg)
-# **🐄 MI RANCHO**
 
+# 📋 Reporte de Cambios: Tercera Entrega
+
+## 1️⃣ Cambios Realizados
+
+- **Nueva Bitácora**  
+  Se añadió una bitácora de actividades actualizada que refleja el progreso del proyecto durante el sprint actual. Incluye detalles sobre:  
+  - Ajustes en el diseño de la interfaz de usuario.  
+  - Implementación de pruebas para la funcionalidad de gestión por RFID.  
+  - Correcciones de errores detectados en la segunda entrega.  
+
+- **Diapositiva de Tercera Entrega**  
+  Se integró una nueva diapositiva para la presentación semanal que destaca:  
+  - Los avances en la funcionalidad del historial de salud de los animales.  
+  - La mejora en el diseño visual para una mejor experiencia de usuario.  
+  - Comparativas con los objetivos previos y alcance logrado.  
+
+## 2️⃣ Entrega Final del Producto
+
+Puedes acceder a la entrega final del producto en el siguiente enlace:  
+[🔗 **Entrega Final de Mi Rancho**](https://mockitt.wondershare.com/proto/WUsFM1qsnucaqp7Yj5nG/sharing?view_mode=device&screen=rbpUVXiBncFz2sqZA&canvasId=rcUVXiBneU7PNpeq)
+
+# **🐄 MI RANCHO**
 **MI RANCHO** es una plataforma digital diseñada para optimizar la gestión en ranchos, granjas y otras instalaciones que manejan animales. Su objetivo principal es **digitalizar y automatizar el control de cualquier tipo de animal**, permitiendo a los usuarios registrar y monitorear fácilmente la información mediante identificación por chip RFID. Esta solución reemplaza los métodos tradicionales en papel, mejorando la eficiencia y precisión en la administración de datos, además de facilitar el acceso a información clave en tiempo real. Además, cuenta con una interfaz pensada para trabajos de campo bajo el sol, que sirve de apoyo a los trabajadores para realizar sus tareas diarias.
 
 ## **🔍 Descripción del Proyecto**
