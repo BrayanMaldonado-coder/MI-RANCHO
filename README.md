@@ -397,6 +397,6 @@ Participación en **Mi Rancho** enfocada principalmente en:
 
 ---
 
-⭐ **Mi Rancho — Gestión digital para el seguimiento y administración de animales.**
+⭐ **Mi Rancho — Gestión digital para el seguimiento y administración de ganado.**
 
 
