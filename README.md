@@ -1,295 +1,402 @@
 ![logo](logo.jpg)
-# **🐄 MI RANCHO**
 
-**MI RANCHO** es una plataforma digital diseñada para optimizar la gestión en ranchos, granjas y otras instalaciones que manejan animales. Su objetivo principal es **digitalizar y automatizar el control de cualquier tipo de animal**, permitiendo a los usuarios registrar y monitorear fácilmente la información mediante identificación por chip RFID. Esta solución reemplaza los métodos tradicionales en papel, mejorando la eficiencia y precisión en la administración de datos, además de facilitar el acceso a información clave en tiempo real.
+# 🐄 MI RANCHO
 
-## **🔍 Descripción del Proyecto**
+> Plataforma digital para la gestión y seguimiento de animales mediante tecnología RFID.
 
-**MI RANCHO** es una solución digital integral diseñada para facilitar la gestión y seguimiento de animales en diversas instalaciones, como ranchos, granjas, zoológicos y refugios. El software permite a los usuarios **registrar, monitorizar y gestionar información clave** sobre los animales de manera eficiente y segura.
+---
 
-La plataforma está orientada a sustituir los tradicionales registros en papel, ofreciendo una **gestión digital automatizada** que incluye la identificación de cada animal mediante tecnología **RFID (Identificación por Radiofrecuencia)**. Esto facilita el seguimiento individual de los animales, proporcionando un historial completo de su salud, alimentación y productividad, todo accesible desde un dispositivo móvil.
+## 📌 Descripción del proyecto
 
-### **¿Para qué sirve? 🤔**
-El software permite a los usuarios:
-- **🐖 Registrar y gestionar animales** de diferentes especies, ya sea ganado, aves, caballos, mascotas, etc.
-- **🔍 Identificar animales mediante chips RFID**, lo que asegura un seguimiento más preciso y menos propenso a errores.
-- **📜 Mantener un historial completo de cada animal**, incluyendo datos sobre su salud, alimentación, reproducción y otros aspectos importantes.
-- **📊 Generar informes personalizados** que ayuden a tomar decisiones basadas en datos sobre la productividad, salud y bienestar de los animales.
-- **🌐 Sincronización en tiempo real** para que los datos siempre estén actualizados y accesibles desde cualquier lugar.
+**Mi Rancho** es una propuesta de aplicación móvil diseñada para facilitar la gestión y seguimiento de animales en ranchos, granjas, zoológicos y refugios.
 
-### **¿A quién está dirigido? 🎯**
-Este software está dirigido a:
-- **👨‍🌾 Ganaderos y administradores de ranchos** que buscan digitalizar la gestión de ganado, reduciendo la carga administrativa.
-- **🌱 Dueños y gerentes de granjas** que necesitan una herramienta efectiva para gestionar animales de diversas especies.
-- **🐾 Veterinarios y personal de zoológicos** interesados en llevar un control detallado de la salud y bienestar de los animales.
-- **🏠 Refugios de animales** que desean un método eficiente para gestionar grandes volúmenes de animales, facilitando el seguimiento individual.
+El proyecto busca sustituir los registros tradicionales en papel mediante una solución digital que permita centralizar información relacionada con los animales, incluyendo datos de identificación, salud, alimentación, reproducción y productividad.
 
-## **💡 Motivación**
+Uno de los principales componentes de la propuesta es la utilización de **tecnología RFID (Identificación por Radiofrecuencia)** para facilitar la identificación individual de los animales y el acceso a su información.
 
-El proyecto **"Mi Rancho"** se creó en respuesta a los desafíos significativos que enfrentan los profesionales en la gestión de animales en diversas industrias. La gestión tradicional basada en papel presenta varios problemas que afectan tanto la eficiencia como la efectividad en el manejo de los animales. 
+La aplicación está pensada para proporcionar información organizada y accesible, incluyendo escenarios de trabajo **offline y online**, con sincronización de datos cuando exista conexión a Internet.
 
-### **Problemas que estamos resolviendo:**
-1. **⏳ Ineficiencia en la gestión de datos**: Los registros en papel son propensos a errores, difíciles de actualizar y pueden resultar en la pérdida de información crucial. La falta de acceso inmediato a la información puede causar retrasos en la toma de decisiones.
+---
 
-2. **🐄 Dificultades en el seguimiento individual**: Sin una herramienta adecuada, el seguimiento del estado de salud, alimentación y otros aspectos de cada animal se vuelve complicado, especialmente en instalaciones con un gran número de animales.
+## 🎯 Objetivo
 
-3. **🐕 Falta de visibilidad en la salud y bienestar animal**: La incapacidad de tener un historial claro y accesible sobre la salud y el comportamiento de los animales puede llevar a problemas de bienestar y productividad, lo que a su vez afecta a la rentabilidad de la operación.
+Desarrollar una solución digital que facilite la administración de animales y permita a los usuarios:
 
-4. **📉 Limitaciones en el acceso a información**: Los métodos tradicionales no permiten el acceso a datos en tiempo real, lo que dificulta la toma de decisiones informadas y oportunas.
+- 🐄 Registrar animales y sus características.
+- 📡 Identificar animales mediante RFID.
+- 🩺 Consultar historiales de salud y alimentación.
+- 🧬 Registrar información relacionada con reproducción y descendencia.
+- 📊 Generar informes personalizados.
+- 📱 Acceder a información desde dispositivos móviles.
+- 🔄 Trabajar en modo offline y sincronizar posteriormente los datos.
+- 🤝 Facilitar la colaboración entre los miembros del equipo encargado de la gestión.
 
-### **Importancia del Proyecto:**
-- **🔧 Eficiencia y precisión**: Al digitalizar el registro y seguimiento de los animales, **"Mi Rancho"** mejora la eficiencia operativa, reduce la carga administrativa y minimiza errores, lo que resulta en una mejor gestión de los recursos.
+---
 
-- **🐾 Bienestar animal**: Proporcionar a los propietarios y administradores acceso fácil a la información sobre la salud y el estado de cada animal contribuye a mejorar su bienestar y calidad de vida.
+## 💡 Problema que busca resolver
 
-- **📊 Decisiones basadas en datos**: Al facilitar la recopilación y análisis de datos, los usuarios pueden tomar decisiones más informadas, lo que puede llevar a una mejora en la productividad y rentabilidad del negocio.
+La gestión tradicional mediante registros en papel puede dificultar:
 
-- **🤝 Facilitación del trabajo en equipo**: Al permitir que varios usuarios accedan y colaboren en la gestión de datos, **"Mi Rancho"** fomenta una mejor comunicación y cooperación entre los miembros del equipo, mejorando la dinámica de trabajo.
+- La actualización de información.
+- El seguimiento individual de cada animal.
+- El acceso rápido a historiales.
+- La organización de grandes cantidades de información.
+- La disponibilidad de datos en tiempo real.
 
-##**🎯 Objetivos**
-Aquí tienes una lista de los **objetivos clave** que el proyecto **"Mi Rancho"** busca alcanzar:
+**Mi Rancho** plantea una alternativa digital para centralizar esta información y facilitar su consulta y administración.
 
-### **Objetivos de "Mi Rancho"**
-1. **💻 Digitalizar el seguimiento y registro de animales**: Implementar una plataforma que reemplace los registros en papel, permitiendo a los usuarios llevar un control digital eficiente de todos los animales.
+---
 
-2. **📡 Implementar identificación mediante chips RFID**: Facilitar la identificación única de cada animal a través de tecnología RFID, mejorando la precisión en el seguimiento y la gestión de datos.
+# ✨ Funcionalidades principales
 
-3. **📂 Centralizar la información de salud y alimentación**: Crear un historial accesible y organizado de la salud, alimentación y comportamiento de cada animal, lo que permite un mejor cuidado y bienestar.
+### 🐄 Gestión de animales
 
-4. **📈 Generar informes personalizados**: Ofrecer la capacidad de crear informes detallados sobre la producción, estado de salud y otros datos relevantes, facilitando la toma de decisiones informadas.
+- Registro de animales.
+- Identificación mediante nombre, número o referencia.
+- Registro de raza, edad, género y fecha de nacimiento.
+- Registro de características físicas como peso, tamaño y color.
 
-5. **📱 Facilitar el acceso a datos en tiempo real**: Permitir a los usuarios acceder a información actualizada desde cualquier lugar y en cualquier momento, mejorando la capacidad de respuesta ante cualquier situación.
+### 🩺 Historial de salud
 
-6. **🤝 Mejorar la colaboración y comunicación del equipo**: Fomentar un entorno de trabajo colaborativo donde todos los miembros del equipo puedan acceder y compartir información relevante, mejorando la coordinación en la gestión animal.
+- Registro de vacunaciones.
+- Registro de enfermedades.
+- Registro de tratamientos.
+- Registro de exámenes médicos.
+- Consulta del historial de cada animal.
 
-7. **⏱️ Aumentar la eficiencia operativa**: Reducir el tiempo y esfuerzo dedicado a la administración de datos, permitiendo a los usuarios concentrarse en otras áreas críticas de su operación.
+### 🧬 Reproducción y descendencia
 
-8. **🐾 Contribuir al bienestar animal**: Asegurar que cada animal reciba el cuidado adecuado a través de un seguimiento constante y accesible, lo que ayuda a mejorar su salud y calidad de vida.
+- Registro de descendencia.
+- Asociación entre padres y crías.
+- Seguimiento de genealogía.
+- Registro de eventos relacionados con reproducción.
 
-## **🔑 Funcionalidades Principales**
-- **📋 Registro de animales**: Los usuarios pueden registrar y gestionar la información de los animales.
-- **📡 Identificación por chip**: Soporte para identificar cada animal mediante tecnología RFID.
-- **🩺 Historial de salud y alimentación**: Almacena y organiza los datos relacionados con la salud y dieta de cada animal.
-- **📊 Informes personalizados**: Generación de informes sobre la producción, estado de los animales, etc.
+### 📡 Identificación mediante RFID
 
-## **🔍 Requerimientos Funcionales**
+La aplicación contempla la integración con lectores RFID para identificar animales y consultar su información de manera rápida.
 
-1. **📱 Aplicación Móvil**  
-   La aplicación debe estar disponible para dispositivos móviles (Android e iOS), permitiendo a los usuarios acceder a la plataforma desde sus teléfonos o tabletas. Esto proporciona mayor flexibilidad y acceso en tiempo real a la información del ganado, sin depender de una computadora.
+### 📊 Informes
 
-2. **🌐 Offline/Online**  
-   - **Modo Offline**: Los usuarios podrán registrar y consultar la información básica de los animales y sus características, incluso en áreas sin cobertura de internet. Los datos se almacenarán localmente en el dispositivo.
-   - **Modo Online**: Cuando el dispositivo esté conectado a internet, la aplicación sincronizará automáticamente la información registrada mientras estaba offline con la base de datos en la nube, actualizándose con cualquier cambio realizado por otros usuarios autorizados.
+Se contempla la generación de informes relacionados con:
 
-3. **🐄 Añadir Animales y Características (Salud, Descendencia, Registros)**  
-   - **Registro de Animales**: La aplicación debe permitir al usuario agregar nuevos animales con detalles específicos, tales como:
-     - **Identificación** (nombre o número de referencia).
-     - **Información demográfica** (raza, edad, género, fecha de nacimiento).
-     - **Características Físicas**: Peso, tamaño, color y otros detalles visuales.
-   - **Salud**: Los usuarios podrán registrar y consultar el historial de salud de cada animal, incluyendo:
-     - Vacunaciones.
-     - Enfermedades y tratamientos.
-     - Exámenes médicos.
-   - **Descendencia**: Registrar información sobre la descendencia, asociando crías con los padres y permitiendo un seguimiento de la genealogía.
-   - **Registros Adicionales**: Añadir eventos importantes como inseminación, nacimientos, sacrificios o ventas de animales, para mantener un control completo del ciclo de vida de cada ejemplar.
+- Producción.
+- Estado de los animales.
+- Salud.
+- Información relevante para la gestión.
 
-4. **📡 Rastreo y Reconocimiento RFID**  
-   La aplicación deberá integrar la tecnología de identificación por radiofrecuencia (RFID), permitiendo a los usuarios rastrear e identificar animales mediante dispositivos de lectura RFID.
-   - **Rastreo de Animales**: Los usuarios podrán escanear las etiquetas RFID que lleven los animales para obtener información inmediata sobre su estado de salud, ubicación y otros datos relevantes.
-   - **Actualización Automática**: Al leer la etiqueta RFID de un animal, se actualizará automáticamente la información de dicho ejemplar en la base de datos de la aplicación.
+### 📱 Aplicación móvil
 
-## **🔒 Requerimientos No Funcionales**
+El proyecto está diseñado como una aplicación móvil para dispositivos Android e iOS.
 
-1. **🔄 Disponibilidad**  
-   La aplicación debe garantizar una alta disponibilidad, permitiendo a los usuarios acceder a sus funciones (registro de animales, consultas, etc.) en todo momento. El sistema en la nube debe estar disponible al menos el **99.9%** del tiempo, minimizando periodos de inactividad.
+### 🔄 Modo Offline / Online
 
-2. **📈 Escalabilidad**  
-   La aplicación debe ser capaz de manejar un número creciente de usuarios y animales sin afectar el rendimiento. Debe ser posible gestionar desde pequeños rebaños hasta grandes cantidades de ganado (decenas de miles de registros) sin pérdida de rendimiento.
+La propuesta contempla:
 
-3. **⚡ Rendimiento**  
-   - **Rápida respuesta en modo offline**: El acceso a los datos debe ser inmediato en modo offline.
-   - **Sincronización eficiente**: Al volver a modo online, los datos recopilados en offline deben sincronizarse rápidamente, con una carga mínima de ancho de banda.
-   - **Lectura RFID**: El reconocimiento de animales mediante RFID debe ser instantáneo, sin retrasos notables, incluso en condiciones de señal variables.
+- **Modo Offline:** registrar y consultar información sin conexión.
+- **Modo Online:** sincronizar los datos almacenados cuando vuelva a existir conexión.
 
-4. **🔐 Seguridad**  
-   La información debe estar protegida tanto localmente en el dispositivo como en la nube:
-   - **Encriptación** de los datos almacenados localmente y durante la transmisión para garantizar que la información no sea vulnerable a ataques.
-   - **Autenticación de usuarios** mediante contraseñas seguras o autenticación biométrica para evitar el acceso no autorizado.
-   - Implementación de **roles de usuario** para limitar las acciones que diferentes usuarios pueden realizar (por ejemplo, un trabajador de campo podría registrar información, pero no modificar datos críticos del sistema).
+---
 
-5. **🖥️ Usabilidad**  
-   La interfaz debe ser intuitiva y fácil de usar, permitiendo que personas con conocimientos técnicos básicos puedan utilizarla sin dificultades. El proceso para añadir animales o actualizar características debe ser rápido y simple, con el mínimo número de pasos necesario. Debe incluir instrucciones claras y tutoriales para facilitar el aprendizaje de las funciones clave, como el escaneo RFID y la sincronización de datos.
+# 🛠️ Tecnologías utilizadas
 
-6. **📱 Portabilidad**  
-   La aplicación debe ser compatible con una amplia gama de dispositivos móviles con diferentes tamaños de pantalla y sistemas operativos, como Android e iOS, adaptándose automáticamente a las resoluciones de pantalla. Además, debe funcionar eficientemente en dispositivos de gama media o baja, optimizando el uso de recursos como la memoria y el procesador.
+| Tecnología | Uso |
+|---|---|
+| **Flutter** | Desarrollo de la aplicación |
+| **Dart** | Lenguaje de programación |
+| **Firebase** | Base de datos y servicios en la nube |
+| **RFID** | Identificación de animales |
+| **APIs** | Sincronización y generación de informes |
+| **Git / GitHub** | Control y organización del proyecto |
 
-7. **🔧 Mantenimiento**  
-   El sistema debe ser fácil de mantener, permitiendo actualizaciones regulares sin afectar la funcionalidad. La aplicación debe poder autodescargarse actualizaciones, tanto de la aplicación misma como de la base de datos, sin requerir intervención manual del usuario.
+---
 
-8. **✅ Confiabilidad**  
-   La aplicación debe ser lo suficientemente robusta para evitar la pérdida de datos en situaciones de uso prolongado en modo offline. La sincronización de datos debe manejar conflictos y duplicados de forma eficiente y precisa. En caso de fallas o interrupciones durante la sincronización, la aplicación debe tener mecanismos de recuperación de datos automáticos para evitar pérdidas.
+# 🎨 Mi participación — Cynthia356384
 
-9. **⏱️ Tiempo de Carga**  
-   El tiempo de inicio de la aplicación debe ser corto, idealmente menos de **5 segundos** en la mayoría de los dispositivos. Las funciones clave, como el registro y la consulta de datos, deben cargarse de manera rápida, para que los usuarios no experimenten retrasos.
+## UX/UI y Diseño Visual
 
-Aquí tienes la ampliación del documento con un apartado de artefactos y otro de priorización, manteniendo el uso de emojis para hacerlo más atractivo:
+Mi principal responsabilidad dentro de **Mi Rancho** fue desarrollar la parte gráfica y visual del proyecto, enfocándome en la experiencia de usuario y en la organización de la interfaz.
 
+### Mis responsabilidades
 
-## **🛠️ Artefactos**
+- 🎨 Diseño de la interfaz de usuario.
+- 🖥️ Diseño y organización visual de las pantallas.
+- ✨ Desarrollo de la propuesta gráfica.
+- 👤 Diseño de la experiencia de usuario (UX).
+- 📐 Organización de los elementos visuales de la aplicación.
+- 📱 Diseño de una interfaz clara, funcional y fácil de utilizar.
+- 🤝 Colaboración con el equipo para alinear el diseño con las necesidades del proyecto.
 
-1. **📄 Documentación de Requerimientos**  
-   Un documento que reúne todos los requerimientos funcionales y no funcionales, sirviendo como guía para el desarrollo y validación de la aplicación.
+Mi objetivo dentro del equipo fue contribuir a que **Mi Rancho** tuviera una interfaz clara, funcional y orientada a las necesidades de los usuarios.
 
-2. **🎨 Prototipos de Interfaz de Usuario (UI)**  
-   Prototipos visuales que ilustran el diseño y la disposición de la interfaz de la aplicación, permitiendo a los usuarios y desarrolladores tener una visión previa de cómo lucirá la aplicación.
+---
 
-3. **🔄 Especificaciones Técnicas**  
-   Un documento que detalla las tecnologías, frameworks y arquitecturas que se utilizarán en el desarrollo de la aplicación, así como las decisiones de diseño técnico.
+# 👥 Equipo y contribuciones
 
-4. **📊 Plan de Pruebas**  
-   Un plan que describe los tipos de pruebas que se realizarán (unitarias, integración, sistema, etc.) y los criterios de aceptación para asegurar que la aplicación cumple con los requerimientos.
+El proyecto fue desarrollado mediante trabajo colaborativo entre los integrantes del equipo.
 
-5. **📈 Informe de Progreso**  
-   Informes regulares que resumen el avance del proyecto, los logros alcanzados y los desafíos encontrados durante el desarrollo, facilitando la comunicación entre el equipo y los stakeholders.
+### 🎨 Cynthia356384 — UX/UI y Diseño Visual
 
-6. **🛠️ Manual de Usuario**  
-   Un documento que proporciona instrucciones claras sobre cómo utilizar la aplicación, incluyendo funciones clave y solución de problemas comunes.
+- Responsable del diseño de interfaz y experiencia de usuario.
+- Desarrollo de la propuesta gráfica.
+- Organización visual de las pantallas.
+- Diseño de la experiencia de usuario.
+- Participación en el equipo de desarrollo.
 
-## **📊 Priorización**
+### 📋 jazminfern4ndez — Área Administrativa
 
-La priorización de requerimientos es crucial para asegurar que se aborden primero las funcionalidades más importantes. A continuación se detalla un enfoque de priorización basado en la metodología MoSCoW:
+- Participación en el área administrativa.
+- Apoyo en la organización y seguimiento del proyecto.
+- Participación en la gestión de las actividades del equipo.
+- Responsabilidades relacionadas con la organización administrativa.
 
-1. **💯 Must Have (Debe Tener)**  
-   Requerimientos esenciales que son imprescindibles para que la aplicación funcione correctamente:
-   - Aplicación móvil disponible para Android e iOS.
-   - Registro de animales y características.
-   - Modo offline y online con sincronización.
+### 💻 BrayanMaldonado-coder — Desarrollo
 
-2. **✨ Should Have (Debería Tener)**  
-   Requerimientos que son importantes, pero no críticos para el lanzamiento inicial:
-   - Rastreo y reconocimiento RFID.
-   - Registros adicionales (inseminación, nacimientos, etc.).
-   - Interface intuitiva y fácil de usar.
+- Responsable principal del desarrollo.
+- Participación en la implementación de la solución.
+- Trabajo relacionado con la construcción de la aplicación.
+- Participación en las actividades del equipo de desarrollo.
 
-3. **🔄 Could Have (Podría Tener)**  
-   Funcionalidades que agregarían valor, pero pueden ser implementadas en futuras versiones:
-   - Integración de gráficos o estadísticas sobre el ganado.
-   - Notificaciones para recordatorios de vacunaciones o tratamientos.
-   - Funcionalidades sociales, como compartir información con otros usuarios.
+### 🧪 Jose-Meza1206 — Testing y Documentación
 
-4. **❌ Won't Have (No Tendrá)**  
-   Requerimientos que no se implementarán en esta fase del proyecto, pero que podrían ser considerados para versiones futuras:
-   - Integración con dispositivos de monitoreo de salud en tiempo real.
-   - Funcionalidad de comercio electrónico para la venta de ganado.
+- Realización de pruebas del proyecto.
+- Identificación y seguimiento de posibles problemas.
+- Elaboración y organización de documentación.
+- Apoyo en la validación de los requerimientos.
 
-## **🌍 Competencias Genéricas**
+### ✅ MichelleFirst — Control de Calidad
 
-1. **🔍 Pensamiento Crítico**  
-   Capacidad para analizar problemas y desarrollar soluciones efectivas, lo que es crucial para abordar desafíos en la gestión de datos y la integración de tecnologías como RFID.
+- Revisión de la calidad del proyecto.
+- Seguimiento del cumplimiento de los requerimientos.
+- Apoyo en la validación del producto.
+- Participación en actividades relacionadas con el control de calidad.
 
-2. **🤝 Trabajo en Equipo**  
-   Habilidad para colaborar con miembros de diferentes disciplinas, fomentando la comunicación y la cooperación para lograr los objetivos del proyecto.
+---
 
-3. **📊 Gestión del Tiempo**  
-   Capacidad para planificar y priorizar tareas, asegurando que el desarrollo del producto cumpla con los plazos establecidos y se mantenga en línea con el cronograma del proyecto.
+# 🔄 Metodología de trabajo
 
-4. **💻 Adaptabilidad**  
-   Flexibilidad para adaptarse a cambios en requisitos o tecnologías, lo que permite al equipo ajustarse a nuevas demandas del proyecto o del mercado.
+El desarrollo del proyecto se plantea utilizando la metodología **Scrum**.
 
-5. **📈 Orientación a Resultados**  
-   Enfoque en la consecución de objetivos y metas específicas, evaluando continuamente el progreso del proyecto y tomando decisiones informadas para mejorar los resultados.
+El equipo trabaja mediante **sprints de una semana**, en los cuales se establecen tareas, se revisan avances y se identifican problemas durante el desarrollo.
 
-## **🎯 Competencias Específicas**
+Para la comunicación y coordinación del equipo se utiliza **Slack**.
 
-1. **🛠️ Desarrollo de Software**  
-   Conocimiento en lenguajes de programación (como Dart) y plataformas (como Flutter) para diseñar y construir una aplicación móvil funcional y eficiente.
+### Roles de Scrum
 
-2. **📊 Análisis de Datos**  
-   Habilidad para recopilar, interpretar y presentar datos de manera que se traduzcan en decisiones informadas sobre la salud y el manejo del ganado.
-
-3. **🔐 Seguridad Informática**  
-   Competencia en la implementación de medidas de seguridad para proteger la información sensible de los usuarios y los animales, incluyendo encriptación y autenticación.
-
-4. **📱 Desarrollo de Aplicaciones Móviles**  
-   Experiencia en la creación de interfaces de usuario intuitivas y amigables, asegurando que la aplicación sea fácil de usar para los ganaderos y administradores.
-
-5. **🌐 Integración de Tecnología RFID**  
-   Conocimiento en la implementación y uso de tecnología de identificación por radiofrecuencia para el seguimiento y gestión de animales, mejorando la eficiencia en la administración del ganado.
-
-6. **📈 Gestión de Proyectos**  
-   Capacidad para aplicar metodologías ágiles, como Scrum, para gestionar el desarrollo del producto, asegurando que el equipo cumpla con los plazos y requisitos del cliente.
-
-## 📋 Descripción del Proceso
-
-El proceso de desarrollo del software "Mi Rancho" se basa en la metodología **Scrum**, que permite una gestión ágil y eficiente del proyecto. Cada **sprint** tiene una duración de una semana, donde se definen tareas específicas y se realizan entregas parciales del producto. Este enfoque permite adaptarse rápidamente a los cambios y mejorar continuamente el software basado en la retroalimentación del equipo y de los usuarios finales. 🐄✨
-
-## 📈 Gestión del Proceso
-
-La gestión del proceso se realiza a través de **Slack**, donde el equipo de 5 personas se comunica de manera efectiva. Se utilizan herramientas de seguimiento de tareas para asegurarse de que cada miembro del equipo esté alineado con los objetivos del sprint. Las reuniones diarias de **scrum** son clave para coordinar esfuerzos, identificar obstáculos y celebrar logros. 🛠️🤝
-
-## 📊 Métrica de Contribución Individual
-
-Cada miembro del equipo tiene responsabilidades específicas en el desarrollo del proyecto. Las métricas de contribución se basan en el cumplimiento de tareas asignadas, la calidad del trabajo realizado y la capacidad de colaborar en equipo. Se evalúa el rendimiento mediante el seguimiento del avance en los sprints y se fomenta la retroalimentación continua para el crecimiento profesional de cada integrante. 📅🌟
-
-## 🗂️ Organización y Documentación del Repositorio
-
-El repositorio del proyecto "Mi Rancho" está organizado de manera estructurada para facilitar el acceso a la documentación y al código fuente. Se utilizan convenciones de nomenclatura clara y se incluyen **README** detallados en cada módulo del software. Además, se mantiene un registro de las decisiones tomadas y los cambios realizados en el proyecto, asegurando así una documentación completa y actualizada. 📚💻
-
-## **👥 Equipo de "Mi Rancho"**
-- **BrayanMaldonado-coder** - Desarrollador principal
-- **Cynthia356384** - Especialista en UX/UI
-- **Jose-Meza1206** - Tester y encargado de la documentación
-- **jazminfern4ndez** - Área administrativa
-- **MichelleFirst** - Control de calidad
-
-## **🛠️ Roles de Scrum**
-- **Product Owner**: jazminfern4ndez  
-- **Scrum Master**: MichelleFirst 
-- **Development Team**:
-  - Jose-Meza1206
-  - Cynthia356384
+- **Product Owner:** jazminfern4ndez
+- **Scrum Master:** MichelleFirst
+- **Development Team:**
   - BrayanMaldonado-coder
+  - Cynthia356384
+  - Jose-Meza1206
 
-## **💻 Tecnologías Utilizadas**
-- **Frontend y Backend**: **Flutter** 
-- **Lenguaje de programación**: Dart
-- **Identificación**: Integración con hardware RFID para identificación de los animales.
-- **Base de datos**: Firebase 
-- **Otros**: APIs para la sincronización de datos y generación de informes.
+---
 
-## **📊 Estado del Proyecto**
-El proyecto **"Mi Rancho"** se encuentra actualmente en la fase de **planificación y diseño**. Hasta ahora, se han definido los **requisitos funcionales y no funcionales**, lo que proporciona una base sólida para el desarrollo del software.
+# 📋 Requerimientos funcionales
 
-### **Detalles del Estado Actual:**
-- **📝 Requisitos Definidos**: 
-  - Los requisitos funcionales describen las características y funcionalidades que el software debe ofrecer, como el registro de animales, la identificación por chip, y la generación de informes.
-  - Los requisitos no funcionales abordan aspectos como la seguridad, rendimiento y usabilidad, asegurando que el sistema no solo cumpla con las funciones requeridas, sino que también sea eficiente y fácil de usar.
+La propuesta contempla las siguientes funcionalidades:
 
-- **📅 Próximos Pasos**: 
-  - La próxima fase implica el inicio de la codificación, donde el equipo de desarrollo comenzará a implementar las funcionalidades definidas en los requisitos. 
-  - Se llevará a cabo una serie de reuniones de planificación y revisión para asegurarse de que el desarrollo siga alineado con la visión del proyecto.
+1. Aplicación móvil para Android e iOS.
+2. Registro de animales y sus características.
+3. Funcionamiento offline y online.
+4. Sincronización de información.
+5. Identificación mediante RFID.
+6. Registro de salud y alimentación.
+7. Registro de reproducción y descendencia.
+8. Registro de eventos importantes.
+9. Generación de informes.
+10. Acceso a información desde dispositivos móviles.
 
-## Presentación del Avance 📊
+---
 
-Los avances del proyecto "Mi Rancho" se presentan de manera semanal mediante exposiciones y diapositivas. Este formato permite a todos los miembros del equipo compartir sus logros, discutir los desafíos encontrados y recibir retroalimentación constructiva. Cada presentación incluye:
+# 🔒 Requerimientos no funcionales
 
-- **Diapositivas** que resumen el trabajo realizado en la semana.
-- **Exposición verbal** para explicar los detalles de cada tarea y su impacto en el proyecto.
-- **Discusión** para abordar preguntas y sugerencias de los compañeros.
+El proyecto contempla los siguientes aspectos:
 
-## **📞 Contacto**
-Para mantenerte en contacto con el equipo y otros interesados en el proyecto **"Mi Rancho"**, puedes unirte a nuestro canal de Slack utilizando la siguiente ID de canal:
+- 🔄 Disponibilidad.
+- 📈 Escalabilidad.
+- ⚡ Rendimiento.
+- 🔐 Seguridad.
+- 🖥️ Usabilidad.
+- 📱 Portabilidad.
+- 🔧 Mantenimiento.
+- ✅ Confiabilidad.
+- ⏱️ Tiempos de carga reducidos.
 
-- **ID del Canal de Slack**: **C07PQ5NE7NH**
+---
 
-### **Pasos para unirte al canal**:
-1. **Abre Slack**: Inicia la aplicación de Slack o accede a la versión web.
-2. **Unirse al Canal**:
-   - En la barra lateral izquierda, busca la opción "Canales" o "Channels".
-   - Haz clic en "Unirse a un canal" o "Browse channels".
-   - En la barra de búsqueda, ingresa la ID del canal: **C07PQ5NE7NH**.
-   - Selecciona el canal y haz clic en "Unirse" o "Join".
+# 🔐 Seguridad
 
+La propuesta contempla diferentes mecanismos para proteger la información:
 
+- Encriptación de datos.
+- Autenticación de usuarios.
+- Roles y permisos.
+- Protección de información almacenada localmente y en la nube.
+
+El sistema contempla diferentes niveles de acceso dependiendo de las responsabilidades de cada usuario.
+
+---
+
+# 📱 Experiencia de usuario
+
+Uno de los objetivos del proyecto es desarrollar una interfaz intuitiva para usuarios con diferentes niveles de conocimiento tecnológico.
+
+La aplicación contempla procesos simples para:
+
+- Registrar animales.
+- Consultar información.
+- Actualizar características.
+- Escanear identificadores RFID.
+- Consultar historiales.
+- Sincronizar información.
+
+La propuesta busca reducir la cantidad de pasos necesarios para realizar las tareas principales.
+
+---
+
+# 📊 Priorización del proyecto
+
+La priorización de funcionalidades se plantea mediante la metodología **MoSCoW**.
+
+### 🔴 Must Have
+
+Funcionalidades esenciales:
+
+- Aplicación móvil.
+- Registro de animales.
+- Registro de características.
+- Funcionamiento offline/online.
+- Sincronización de datos.
+
+### 🟡 Should Have
+
+Funcionalidades importantes:
+
+- Reconocimiento RFID.
+- Registros de reproducción.
+- Interfaz intuitiva y fácil de utilizar.
+
+### 🟢 Could Have
+
+Funcionalidades para futuras versiones:
+
+- Gráficas y estadísticas.
+- Notificaciones para vacunaciones y tratamientos.
+- Funcionalidades para compartir información.
+
+### ⚪ Won't Have
+
+Funcionalidades que no forman parte de esta etapa:
+
+- Integración con dispositivos de monitoreo de salud en tiempo real.
+- Comercio electrónico para venta de ganado.
+
+---
+
+# 📚 Artefactos del proyecto
+
+Durante la planificación del proyecto se contemplan diferentes artefactos:
+
+- 📄 Documentación de requerimientos.
+- 🎨 Prototipos de interfaz de usuario.
+- 🔧 Especificaciones técnicas.
+- 🧪 Plan de pruebas.
+- 📈 Informes de progreso.
+- 📖 Manual de usuario.
+
+---
+
+# 🧠 Competencias desarrolladas
+
+Durante el desarrollo del proyecto se trabajan diferentes competencias:
+
+- 🔍 Pensamiento crítico.
+- 🤝 Trabajo en equipo.
+- 📅 Gestión del tiempo.
+- 💻 Adaptabilidad.
+- 📈 Orientación a resultados.
+- 🎨 Diseño de interfaces.
+- 👤 Experiencia de usuario.
+- 🧪 Pruebas y control de calidad.
+- 📋 Gestión de proyectos.
+- 🔄 Trabajo con metodología Scrum.
+
+---
+
+# 📈 Estado actual del proyecto
+
+> 🟡 **Proyecto en fase de planificación y diseño**
+
+Actualmente se encuentran definidos los requerimientos funcionales y no funcionales del sistema.
+
+La siguiente etapa contempla comenzar con la implementación de las funcionalidades definidas.
+
+---
+
+# 🚀 Próximos pasos
+
+Entre las siguientes etapas del proyecto se contempla:
+
+1. Iniciar la implementación de la aplicación.
+2. Desarrollar las interfaces diseñadas.
+3. Implementar la gestión de animales.
+4. Integrar Firebase.
+5. Trabajar en la integración RFID.
+6. Implementar el funcionamiento offline/online.
+7. Realizar pruebas.
+8. Validar las funcionalidades.
+9. Mejorar la experiencia de usuario.
+10. Preparar la presentación final del proyecto.
+
+---
+
+# 🗂️ Organización y documentación
+
+El repositorio busca mantener una estructura organizada para facilitar:
+
+- Acceso al código.
+- Documentación del proyecto.
+- Seguimiento de cambios.
+- Organización de módulos.
+- Registro de decisiones.
+- Trabajo colaborativo.
+
+---
+
+# 🤝 Trabajo colaborativo
+
+El proyecto se desarrolla mediante colaboración entre los integrantes del equipo.
+
+La organización de tareas, comunicación y seguimiento de avances permite distribuir responsabilidades entre las diferentes áreas del proyecto.
+
+---
+
+# 📞 Contacto
+
+### Proyecto
+
+**Mi Rancho**
+
+Repositorio:
+
+[![GitHub](https://img.shields.io/badge/GitHub-MI--RANCHO-black?style=for-the-badge&logo=github)](https://github.com/BrayanMaldonado-coder/MI-RANCHO)
+
+---
+
+# 👩‍💻 Cynthia356384
+
+**UX/UI Designer | Diseño Visual | Desarrollo de proyectos**
+
+Participación en **Mi Rancho** enfocada principalmente en:
+
+- 🎨 Diseño visual.
+- 📱 Diseño de interfaces.
+- 👤 Experiencia de usuario.
+- 📐 Organización visual.
+- 🤝 Trabajo colaborativo.
+
+---
+
+⭐ **Mi Rancho — Gestión digital para el seguimiento y administración de animales.**
 
 
